@@ -1,6 +1,5 @@
 Sales Performance Overview Dashboard
 
-Business Overview
 This dashboard provides a comprehensive look at sales dynamics, focusing on revenue seasonality and product performance.
 
 Key Achievements
@@ -23,4 +22,8 @@ Dashboard Preview
 ​Market Segment:
 "Medium" deal sizes account for the vast majority of revenue ($7.1M).
 
-created by Omobolaji kehinde zachariah 
+ Strategic Recommendations
+Based on the dashboard insights, I recommend the following:
+* **Focus on Q4:** Double down on marketing for "Classic Cars" in November.
+* **Deal Strategy:** Prioritize "Medium" size deals to maintain the 21.71% YoY growth.
+

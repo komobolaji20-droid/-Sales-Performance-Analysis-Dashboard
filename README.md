@@ -10,11 +10,18 @@ Key Achievements
 Tools Used
 - Data Visualization: [power bi]
 - Data Cleaning: [Power query]
+
+
 YoY Growth: VAR PriorYear = CALCULATE([Total Revenue],
 SAMEPERIODLASTYEAR('Date'[Date]))
 RETURN
 DIVIDE([Total Revenue] - PriorYear, PriorYear)
+
+
 ​Total Revenue = SUM(Sales[Revenue])
+
+
+
 Profit Margin = DIVIDE([Total Profit], [Total Revenue])
 
 Dashboard Preview
